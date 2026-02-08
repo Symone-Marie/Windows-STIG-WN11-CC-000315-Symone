@@ -30,8 +30,11 @@ PS C:\> .\remediation_WN11-CC-000315.ps1
 ### Before Remediation
 ![Before Remediation](AddAppCompatKey_Screenshot.png)
 
-### After Remediation
+### After Remediation (Manual)
 ![After Remediation](DisableInventory_Screenshot.png)
+
+### PowerShell Automated Remediation Success
+![PowerShell Success](WN11-CC-000315_PowerShell_Success.png)
 
 ## Testing Information
 - **Tested By**: Symone-Marie Priester
@@ -42,10 +45,11 @@ PS C:\> .\remediation_WN11-CC-000315.ps1
 
 ## Repository Structure
 ```
-├── remediation_WN11-CC-000315.ps1    # PowerShell remediation script
-├── AddAppCompatKey_Screenshot.png     # Before remediation
-├── DisableInventory_Screenshot.png    # After remediation
-└── README.md                          # This file
+├── remediation_WN11-CC-000315.ps1         # PowerShell remediation script
+├── AddAppCompatKey_Screenshot.png         # Before remediation
+├── DisableInventory_Screenshot.png        # After remediation (manual)
+├── WN11-CC-000315_PowerShell_Success.png  # PowerShell remediation success
+└── README.md                              # This file
 ```
 
 ## Author
