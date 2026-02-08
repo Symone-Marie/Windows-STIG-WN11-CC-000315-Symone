@@ -4,7 +4,7 @@
 .NOTES
     Author          : Symone-Marie Priester
     LinkedIn        : linkedin.com/in/symone-mariepriester
-    GitHub          : github.com/symonepriester (update with your actual GitHub username)
+    GitHub          : github.com/Symone-Marie
     Date Created    : 2025-02-08
     Last Modified   : 2025-02-08
     Version         : 1.0
